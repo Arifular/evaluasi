@@ -5,27 +5,3 @@ for(let x = 0; x < listDesa.length; x++){
 }
         document.write('</ol>')    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            // for (i = 0; i < listDesa; i++){
-//         document.write(i + listDesa[i] + '<br>')
-// }
